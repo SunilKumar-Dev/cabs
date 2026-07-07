@@ -1,0 +1,15 @@
+{
+    "agents": [
+        "claude_code",
+        "codex",
+        "cursor",
+        "copilot",
+        "junie",
+        "kiro",
+        "opencode"
+    ],
+    "cloud": false,
+    "mcp": true,
+    "nightwatch": false,
+    "sail": false
+}
